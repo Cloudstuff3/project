@@ -1,0 +1,198 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #F2F8FD;
+    font-family: 'Baloo 2'
+}
+
+
+.container{
+    
+    display: flex;
+position: absolute;
+width: 72.21px;
+height: 64px;
+left: 77px;
+top: 25px;
+}
+.search-box{
+    display: flex;
+position: absolute;
+width: 668px;
+height: 30px;
+left: 297px;
+top: 8px;
+background: #E9F1FA;
+border-radius: 16.5px;
+padding: 10px;
+}
+.search-txt{
+    display: flex;
+    border: 0px;
+        background: none;
+        outline:none;
+        float: left;
+        padding: 10px;
+        color:#18333E;
+        font-size: 16px;
+        transition: 0.4s;
+        line-height: 40px;
+        width: 240px;
+}
+.Lupa{
+    
+    display: flex;
+position: absolute;
+width: 24px;
+height: 24px;
+left: 280px;
+top: 20px;
+}
+
+.Ellipse{
+display: flex;
+position: absolute;
+width: 53px;
+height: 53px;
+left: 1027px;
+top: 8px;
+}
+
+.setting-4
+{
+ position: absolute;
+width: 24px;
+height: 24px;
+left: 1041px;
+top: 23px;
+    
+}
+
+.nav-item {
+    margin-top: 60px;
+    display: flex;
+    color: #18333E;
+    text-decoration: none;
+    margin-bottom: 30px;
+    width: 53px;
+    height: 53px;
+    left: 500px;
+    
+    
+    }
+    .nav-item2 { 
+        margin-top: 100px;
+    display: flex;
+    color: #18333E;
+    text-decoration: none;
+    margin-bottom: 30px;
+    width: 53px;
+    height: 53px;
+    left: 500px;
+    }
+
+
+    .notes-png{
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 25px;
+        left: -30px;
+        top: 245px;
+    }
+    .moon {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 357px;
+
+    }
+    .people {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 473px;
+    }
+
+    .bigscope {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 585px;
+    }
+    .Graph {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 698px;
+        
+    }
+
+    .sms{
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 812px;
+    }
+    .Настройки {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 925px;
+
+    }
+
+    .logout {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -25px;
+        top: 1090px;
+    }
+    
+    .Дом {
+        display: flex;
+        position: absolute;
+        width: 72.21px;
+        height: 20px;
+        left: -30px;
+        top: 130px;
+
+    }
+
+    .Line {
+        display: flex;
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: 20px;
+        }
+    .search-txt {
+        font-family: 'Baloo 2'
+    }
+
+    .nav3 {
+    position: absolute;
+    margin-top: 60px;
+    display: flex;
+    color: #18333E;
+    text-decoration: none;
+    margin-bottom: 30px;
+    width: 53px;
+    height: 53px;
+    left: 500px;
+    }
